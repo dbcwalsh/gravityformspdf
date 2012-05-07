@@ -9,10 +9,19 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description == 
+
+> This plugin is an add-on for the [Gravity Forms Plugin](http://bit.ly/getgravityforms "visit the Gravity Forms website"). 
+> If you don't yet own a license of the best forms plugin for WordPress, go and [buy one now!](http://bit.ly/getgravityforms "purchase Gravity Forms!")
+
 A basic plugin that allows Gravity Forms Entries to be Viewed and Download in a Printer Friendly PDF Layout
 
+Requires at least v1.6 of Gravity Forms
+
+**features**
+View and Download the Default print view as a PDF. 
+
 == Installation ==
-Standard Wordpress Plugin Operating Procdure. 
+Standard Wordpress Plugin Operating Procedure. 
 
 This has ONLY been tested on gravity forms latest. 1.6.4.1
 
